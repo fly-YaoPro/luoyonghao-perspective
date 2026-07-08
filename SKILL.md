@@ -1,3 +1,4 @@
+﻿> **📦 伴生知识库**：本Skill搭配 `知识弹药库.md` 使用——包含金句、生平大事记、产品观、辩论实录精华等具体事实。豆包无网络时直接查该文件，不必再去搜索。
 ---
 name: luo-yonghao-perspective
 description: |
