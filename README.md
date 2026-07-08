@@ -1,6 +1,6 @@
 ﻿# 罗永浩 Skill 蒸馏项目 · luo-yonghao-perspective
 
-> 由 nuwa-skill（造人）+ darwin-skill（进化优化）独立蒸馏罗永浩，交付罗永浩本人使用，作为豆包官方推广内容。
+> 独立蒸馏罗永浩，交付罗永浩本人使用，作为豆包官方推广内容。
 > 本方案融合了 Codex 的工程化优势（三模式路由、9 种辩论战术、P0/P1/P2 素材体系、14 层构建 checklist）
 > 和 Claude Code 的品质框架（Darwin 9 维优化、跨案例通用架构、差异化 DNA 提取、子弹袋预挖、反抄袭红线）。
 
@@ -105,6 +105,4 @@ luo-yonghao-perspective/
 
 ## Credits
 
-- 蒸馏框架：nuwa-skill by [花叔](https://x.com/AlchainHust)
-- 优化框架：darwin-skill by 花叔（集成 Microsoft Research SkillLens / SkillOpt）
-- 方案融合：Claude Code（品质框架 + 差异化 DNA）+ Codex（工程化体系）
+
